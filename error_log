@@ -1,0 +1,5 @@
+[29-Jan-2019 22:25:58 UTC] PHP Fatal error:  Uncaught Error: Class 'notFoundController' not found in /home/sistemax/public_html/rastreio/core/Core.php:36
+Stack trace:
+#0 /home/sistemax/public_html/rastreio/index.php(18): Core->run()
+#1 {main}
+  thrown in /home/sistemax/public_html/rastreio/core/Core.php on line 36
